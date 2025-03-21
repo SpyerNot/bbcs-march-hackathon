@@ -4,7 +4,7 @@ st.write("In conclusion, we need corals... But how can we help protect them? Her
 st.write("1️⃣ Recycle and dispose of trash properly. When disposing of trash, do it properly in bins, to avoid trash being blown or washed away into waterways and oceans.")
 st.write("2️⃣ Minimize use of fertilizers. The overuse of fertilizers on lawns harm water quality because nutrients (nitrogen and phosphorus) from the fertilizer are washed into waterways and eventually end up in oceans. These nutrients pollute the water and can harm coral reefs.")
 st.write("3️⃣ Be conscious when buying aquarium fish.  Avoid purchasing living coral and if you buy a marine aquarium fish, make sure that it has been collected in a sustainable manner.")
-st.write("Alright, this presentation has ended. Now time for credits:")
+st.write("Alright, this presentation has ended. Now time for credits: (The credits are page link button btw)")
 st.page_link("https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems#:~:text=Because%20of%20the%20diversity%20of,and%20crannies%20formed%20by%20corals.", label= "NOAA")
 st.page_link("https://www.climate.gov/news-features/featured-images/how-does-2023-24-global-coral-bleaching-compare-past-events", label = "News by NOAA")
 st.page_link("https://www.epa.gov/coral-reefs/what-you-can-do-help-protect-coral-reefs", label ="EPA")
