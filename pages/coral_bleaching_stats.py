@@ -1,5 +1,6 @@
 import streamlit as st
-from PIL import Image 
+from PIL import Image
+Image.MAX_IMAGE_PIXELS = None
 st.image("pages/coral.png",caption="Graph to show Coral Bleaching graph over the years")
 st.write("This shows that coral bleaching is becoming more serious each year and it will reach 90% coral bleaching by 2050")
 st.write("Now you may ask: Eh, coral reefs is in the sea, not the land, is not gonna affect us. Rightttt????")
