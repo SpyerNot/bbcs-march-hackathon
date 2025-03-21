@@ -9,4 +9,4 @@ st.page_link("https://www.noaa.gov/education/resource-collections/marine-life/co
 st.page_link("https://www.climate.gov/news-features/featured-images/how-does-2023-24-global-coral-bleaching-compare-past-events", label = "News by NOAA")
 st.page_link("https://www.epa.gov/coral-reefs/what-you-can-do-help-protect-coral-reefs", label ="EPA")
 st.page_link("https://www.calacademy.org/educators/how-do-humans-depend-on-coral-reefs#:~:text=Half%20a%20billion%20people%20rely,shielding%20the%20shoreline%20from%20waves.",label = "California Academy of Sciences")
-st.wrtie("And my Geography Climate Textbook")
+st.write("And my Geography Climate Textbook")
